@@ -1,4 +1,4 @@
-#TREŚĆ ZADANIA DOMOWEGO
+# TREŚĆ ZADANIA DOMOWEGO
 
 UWAGA! Przy pisaniu tego programu proszę nie korzystać ze struktur ani klas. Proszę napisać go czysto proceduralnie.
 
