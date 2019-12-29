@@ -1,15 +1,16 @@
 # Niby-Gra
 
 Jest to praca domowa wykonana na zajęcia z przedmiotu Podstawy Programowania Obiektowego (AGH WFiIS 2 rok). 
-Przy pisaniu tej pracy należalo nie korzystać z własnych struktur i klas - zadanie miało być napisane czysto proceduralnie (z wyjątkami w postaci kilku obiektów z bibliotek standardowej takich jak std::cin, std::cout i std::endl).
+Przy pisaniu tej pracy należalo nie korzystać z własnych struktur i klas - zadanie miało być napisane czysto proceduralnie (z wyjątkami w postaci kilku obiektów z biblioteki standardowej takich jak std::cin, std::cout i std::endl).
 Jest to implementacja prostej mini-gry RPG bez fabuły. Gra rozpoczyna się od wybrania przez użytkownika imienia swojego bohatera, następnie użytkownik rozdziela 20 punktów pomiędzy atrybuty:
 
-atak fizyczny
-obrona fizyczna
-atak magiczny
-obrona magiczna
-życie
-Użytkownik przypisuje punkty dla 4 pierwszych atrybutów, a pozostałe punkty zostają przypisane jako punkty życia według przelicznika, jeden punkt atrybutu = 2 punkty życia.
+* atak fizyczny
+* obrona fizyczna
+* atak magiczny
+* obrona magiczna
+* życie
+
+Użytkownik przypisuje punkty dla 4 pierwszych atrybutów, a pozostałe punkty zostają przypisane jako punkty życia według przelicznika: jeden punkt atrybutu = 2 punkty życia.
 
 Następnie użytkownik jest atakowany przez potwory opisane tym samym zestawem parametrów. Pierwszy potwór ma w sumie 15 punktów atrybutów, które są rozdzielane
 pomiędzy wszystkie atrybuty.
